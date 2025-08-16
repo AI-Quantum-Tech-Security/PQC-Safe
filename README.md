@@ -3,62 +3,32 @@
   <img width="193" height="69" alt="PQCrypt Post-Quantum Cryptography with Behavioral ML" src="https://github.com/user-attachments/assets/2c8f0818-8196-4995-b4d5-846868205410" />
 </p>
 
-
 <p align="center">
-  <a aria-label="Follow Proxyman on Twitter" href="https://twitter.com/proxyman_app">
-    <img alt="" src="https://img.shields.io/badge/Follow-%40proxyman__app-black.svg?style=for-the-badge&logo=Twitter">
-  </a>
-  <a aria-label="Join the community on Gitter" href="https://gitter.im/Proxyman-app/community">
-    <img alt="" src="https://img.shields.io/badge/Join-the%20community-black.svg?style=for-the-badge&logo=Gitter">
+  <a aria-label="Follow AQT" href="https://www.aiquantumtech.xyz">
+    <img width="68" height="23" alt="Screenshot 2025-08-16 at 10 33 55" src="https://github.com/user-attachments/assets/d732739f-1cbd-48d6-bde4-cc6ecdffa250" />
   </a>
 </p>
-
-<p align="center">
-  <h2 align="center">Modern. Native. Web Debugging Proxy for macOS. Supports iOS and Android ⚡️</h2>
-</p>
-
-<img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_dashboard_4.8.1.jpg" alt="Proxyman Dashboard" width="100%" height="auto"/>
-
-<img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_on_light_theme.jpg" alt="Proxyman with Light Theme v2" width="100%" height="auto"/>
 
 ## Features
-* 💻 Native macOS app. Written by Swift, Objective-C. Powered by Apple SwiftNIO for high-performance network applications.
-* 🍎 Fully supports Apple Chip (e.g M1, M2, M3, M4). 
-* 💫 Built for macOS Ventura & Sonoma.
-* ✅ Hassle-free Intercept HTTP/HTTPS requests/responses and WebSocket from Web Browsers, iOS, and Android devices.
-* ✅ Modern and intuitive UI
-* 🔍 Multiple filters
-* Comprehensive Guidelines to set up with iOS simulator and iOS and Android devices.
-* Basic debugging tools: Compose, Repeat, Wildcard/Regex Filter, Multiple Filters, Customize Columns, Toolbar...
-* Advanced Tools: Breakpoint, Map Local, Map Remote, Backlist, External Proxying, No Caching, Protobuf, Clear Cache, Custom Certificates, Scripting, Network Conditions, Reverse Proxy, Diff, Access Control, DNS Spoofing, etc
-* Automatic Setup for Backend Development: Auto capture HTTP(s) traffic from NodeJS, Ruby, and Python.
-* macOS 11+
+* **Quantum-Resistant Security:** We use the latest NIST-standardized PQC algorithms—Kyber (for encryption), Dilithium, and SPHINCS+ (for digital signatures)—to protect your financial data from future quantum attacks.
+* **Behavioral Anomaly Detection:** Our system goes beyond traditional authentication. It uses a real-time ML engine to analyze user behavior (like typing patterns) and continuously scores the trustworthiness of a session. This allows us to detect and block threats like spoofing and identity manipulation instantly.
+* **High Performance:** Built with Rust, our cryptographic services are optimized for speed, ensuring low latency and high throughput. The system is benchmarked to handle over 1,000 transactions per second (TPS) while maintaining security.
+* **Seamless Integration:** Designed with a modular, containerized architecture, our solution can be easily plugged into your existing infrastructure. The system is built with Rust, Python and Java (Spring Boot) and provides clean, API-driven interfaces for simple deployment.
+* **Compliance-Ready:** We built this system with regulatory requirements in mind. It aligns with key frameworks like PCI DSS 4.0, NIST PQC migration guidelines, and ENISA recommendations, making your path to compliance smoother.
+* **Agility and Resilience:** The hybrid design allows for flexible fallback to classical cryptography or alternative PQC algorithms, providing a robust and adaptable security framework. It can be dynamically configured in response to new threats.
+* **Key Management:** A dedicated Key Management System (KMS) handles the full lifecycle of PQC keys, including automated rotation and detailed audit logging, which is essential for security and compliance.
+* **Transparent and Auditable:** The ML engine includes explainability features to help you understand why a session was flagged as a risk. All cryptographic events are logged for full traceability and audit support.
 
-## Download
-* [Proxyman 5.23.1](https://proxyman.com/release/osx/Proxyman_latest.dmg)
-* [Full Changelogs](https://github.com/ProxymanApp/Proxyman/releases)
-
-```
-brew install --cask proxyman
-```
-
-### Proxyman for iOS
-- 🍎 Native iOS app. 
-- ⚡️ Directly capture HTTPS Traffic from your iOS device. No MacBook is needed.
-- ✅ Block List, Map Local, and Breakpoint are ready
-- Screenshot: https://proxyman.com/ios
-- Download from App Store: https://apps.apple.com/us/app/proxyman/id1551292695
+## Why We Stand Out
+* **Holistic Threat Protection:** We don't just solve the quantum threat; we also address the immediate, real-world risks of behavioral spoofing and phishing. This dual-layered approach provides complete protection.
+* **Practical & Deployable:** Our MVP isn't just a proof of concept—it's a production-ready system. We've conducted rigorous load testing and threat modeling to ensure it performs under realistic constraints.
+* **Designed for the Financial Sector:** The system's architecture, from the use of enterprise-grade Java/Spring Boot to its compliance-focused features, is tailored to the specific needs and challenges of financial institutions.
+* **Future-Proof:** Our use of hybrid cryptography and a modular design ensures that the system can evolve. It's ready for future cryptographic standards and new types of behavioral threats.
 
 ## Have a problem?
 
-- Open a GitHub ticket
-- 👉 Technical issues on [Proxyman Discord](https://discord.gg/tjWEq6Da42)
-- nghia@proxyman.com & support@proxyman.com
+- 👉 Technical issues ai.quantum.tech@pjwstk.edu.pl
 
 ---
 
-Proxyman is developed by a small engineering team, but we're dedicated to shipping Proxyman that tailored for each platform (macOS, iOS, and Windows). It facilitates how we debug apps and brings all developers joy and pleasure.
-
-We're genuinely happy if you purchase a license to support the development ❤️
-
-Proxyman team.
+AI Quantum Tech Team!
