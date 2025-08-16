@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/proxyman_logo_v3.jpg" alt="Proxyman. Web debugging Proxy" width="100%" height="auto"/>
+  <img width="193" height="69" alt="PQCrypt Post-Quantum Cryptography with Behavioral ML" src="https://github.com/user-attachments/assets/2c8f0818-8196-4995-b4d5-846868205410" />
 </p>
+
 
 <p align="center">
   <a aria-label="Follow Proxyman on Twitter" href="https://twitter.com/proxyman_app">
